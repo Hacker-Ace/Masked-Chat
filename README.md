@@ -1,2 +1,3 @@
 # Masked-Chat
-Chat Room for lovers or secret Holders
+Secret chat application
+commit test 2
